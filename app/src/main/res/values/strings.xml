@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name" translatable="false">Smart Worker Device</string>
+
+    <!--main activity-->
+    <string name="insert_email">email@gmail.com</string>
+    <string name="insert_password">password</string>
+    <string name="signUp">Register</string>
+    <string name="already_signUp">Already register? Click here!</string>
+    <string name="registerheading">Register</string>
+    <string name="image1">logo</string>
+
+    <!--login activity-->
+    <string name="insert_email_login">Email</string>
+    <string name="insert_password_login">Password</string>
+    <string name="signIn">Log In</string>
+    <string name="not_SignUp_yet">Not register yet? Click here!</string>
+    <string name="loginheading">Login</string>
+    <string name="image2">logo</string>
+
+    <!--display activity-->
+    <string name="signOut">Sign Out</string>
+    <string name="addemployee">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="scan">Scan</string>
+    <string name="employee_list">Employee List</string>
+
+    <!--add activity-->
+    <string name="name">name</string>
+    <string name="employee_ID">employee ID</string>
+    <string name="add_employee_heading">Please fill in employee details</string>
+    <string name="add">Add</string>
+    <string name="text_view"></string>
+
+    <!--employeelistactivity-->
+    <string name="nameview">Name</string>
+    <string name="employeeid_view">ID</string>
+    <string name="buttondel">Delete</string>
+    <string name="buttonupdate">Update</string>
+    <string name="buttoncupdate">Save</string>
+
+</resources>
